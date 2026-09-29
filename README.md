@@ -177,11 +177,7 @@
 
 <br><br>
 
-<img
-  src="./profile/github-metrics.svg"
-  alt="GitHub Contribution Activity"
-  width="95%"
-/>
+
 
 </div>
 
