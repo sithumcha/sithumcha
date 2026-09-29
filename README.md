@@ -183,16 +183,31 @@
 
 ---
 
-<h2 align="center">📈 GitHub Ecosystem</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sithumcha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumcha&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithumcha&theme=tokyonight&hide_border=true" width="96%" />
-</p>
+<img 
+  src="./profile/stats.svg"
+  alt="GitHub Statistics"
+  width="49%"
+/>
+
+<img 
+  src="./profile/top-langs.svg"
+  alt="Top Languages"
+  width="49%"
+/>
+
+<br><br>
+
+<img
+  src="./profile/github-metrics.svg"
+  alt="GitHub Contribution Activity"
+  width="95%"
+/>
+
+</div>
 
 ---
 

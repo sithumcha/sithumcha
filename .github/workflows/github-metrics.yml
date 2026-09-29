@@ -1,0 +1,30 @@
+name: Update GitHub Contribution Graph
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile/github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: sithumcha
+
+          base: header, activity, community, repositories
+
+          config_timezone: Asia/Colombo
+          config_output: svg
+
+          retries: 3
+          retries_delay: 60
