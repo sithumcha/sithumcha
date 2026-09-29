@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Dynamic Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=24,119,242,120,50,200&height=220&section=header&text=Sithum%20Chanuka&fontSize=52&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20Intern%20%E2%9C%A8&descSize=20&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=24,119,242,120,50,200&height=220&section=header&text=Sithum%20Chanuka&fontSize=52&fontFamily=Inter&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20Intern%20%E2%9C%A8&descSize=20&descAlignY=62" width="100%"/>
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=First-Class+BSc+(Hons)+Software+Engineer;Full-Stack+(MERN+%7C+Spring+Boot)+Developer;Mobile+App+Engineer+(Flutter);AI-Powered+Application+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=First-Class+BSc+(Hons)+Software+Engineer;Full-Stack+(MERN+%7C+Spring+Boot)+Developer;Mobile+App+Engineer+(Flutter);AI-Powered+Application+Developer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -156,30 +156,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">📜 Credentials & Certifications</h2>
-
-<div align="center">
-  <table border="1">
-    <tr>
-      <th>Certification</th>
-      <th>Issuer</th>
-      <th>Verification</th>
-    </tr>
-    <tr>
-      <td><b>Backend Development & API Creation</b></td>
-      <td>Packt / Coursera</td>
-      <td><a href="https://coursera.org/verify/3T562IVTZ5YY" target="_blank">🔗 Verify Credential</a></td>
-    </tr>
-    <tr>
-      <td><b>Spring – Ecosystem and Core</b></td>
-      <td>LearnQuest / Coursera</td>
-      <td><a href="https://coursera.org/verify/NP5X81OX6OSP" target="_blank">🔗 Verify Credential</a></td>
-    </tr>
-  </table>
-</div>
 
 ---
 
