@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=24,119,242,120,50,200&height=220&section=header&text=Sithum%20Chanuka&fontSize=52&fontFamily=Inter&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20Intern%20%E2%9C%A8&descSize=20&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=24,119,242,120,50,200&height=220&section=header&text=Sithum%20Chanuka&fontSize=52&fontFamily=Inter&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%20%E2%9C%A8&descSize=20&descAlignY=62" width="100%"/>
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
@@ -31,7 +31,7 @@
       <h3>🚀 About Me</h3>
       <ul>
         <li>🎓 <b>Education:</b> BSc (Hons) Software Engineering — <i>First Class Honours</i></li>
-        <li>🎯 <b>Target Role:</b> Software Engineer Intern</li>
+        <li>🎯 <b>Target Role:</b> Software Engineer </li>
         <li>💡 <b>Passionate About:</b> Architecting scalable full-stack web platforms & cross-platform mobile apps.</li>
         <li>🤖 <b>AI Integrations:</b> Experienced in integrating Google Gemini AI Vision & LLMs into production apps.</li>
       </ul>
@@ -159,27 +159,20 @@
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">📊 GitHub Activity & Contributions</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sithumcha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumcha&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
 
-<img 
-  src="./profile/stats.svg"
-  alt="GitHub Statistics"
-  width="49%"
-/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithumcha&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Contributions Streak" />
+</p>
 
-<img 
-  src="./profile/top-langs.svg"
-  alt="Top Languages"
-  width="49%"
-/>
-
-<br><br>
-
-
-
-</div>
+<p align="center">
+  <img src="./profile/github-metrics.svg" width="96%" alt="GitHub Contributions & Activity Breakdown" />
+</p>
 
 ---
 
