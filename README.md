@@ -162,12 +162,11 @@
 <h2 align="center">📊 GitHub Activity & Contributions</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sithumcha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumcha&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithumcha&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Contributions Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithumcha&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Contributions Streak" />
+  <img src="./profile/languages.svg" width="48%" alt="Top Languages Breakdown" />
 </p>
 
 <p align="center">
